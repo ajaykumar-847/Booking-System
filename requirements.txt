@@ -1,0 +1,30 @@
+1) login page
+2) signup page
+3) submit button
+4) search button
+5) offers widget
+6) location
+7) date of booking
+8) number of persons
+9) check in and check out time
+10) customer support button
+11) address of the hotel
+12) rating and review of each hotel
+13) number of rooms
+14) types of rooms
+15) price of rooms
+16) online payment page
+17) payment type (cash, card, gpay)
+18) swimming pool
+19) indoor games
+20) food available or not
+21) nearby places from hotel
+22) room cancellation
+23) money refund available or not
+24) reschedule of the rooms
+25) pictures of the rooms
+26) language change button
+27) hotel phone number
+28) facebook id
+29) twitter id
+
